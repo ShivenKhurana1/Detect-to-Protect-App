@@ -1,8 +1,4 @@
-//
-//  ModelView.swift
-//  MelaninMedDraft
-//
-//  Created by Aarushi Ammavajjala on 9/26/24.
+
 
 import SwiftUI
 import ChatGPTSwift

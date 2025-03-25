@@ -9,13 +9,13 @@
 /* Begin PBXBuildFile section */
 		082774E22D77D31000ED284F /* LungAI_image_input.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 082774E12D77D31000ED284F /* LungAI_image_input.mlpackage */; };
 		08359B682D7CBF4E005E19FA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 08359B672D7CBF4D005E19FA /* GoogleService-Info.plist */; };
-		63A477902C743FF00052DCDB /* MelaninMedDraftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A4778F2C743FF00052DCDB /* MelaninMedDraftApp.swift */; };
+		63A477902C743FF00052DCDB /* DetectToProtect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A4778F2C743FF00052DCDB /* DetectToProtect.swift */; };
 		63A477922C743FF00052DCDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477912C743FF00052DCDB /* ContentView.swift */; };
 		63A477962C743FF20052DCDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63A477952C743FF20052DCDB /* Assets.xcassets */; };
 		63A477992C743FF20052DCDB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63A477982C743FF20052DCDB /* Preview Assets.xcassets */; };
-		63A477A32C743FF20052DCDB /* MelaninMedDraftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477A22C743FF20052DCDB /* MelaninMedDraftTests.swift */; };
-		63A477AD2C743FF20052DCDB /* MelaninMedDraftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477AC2C743FF20052DCDB /* MelaninMedDraftUITests.swift */; };
-		63A477AF2C743FF20052DCDB /* MelaninMedDraftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477AE2C743FF20052DCDB /* MelaninMedDraftUITestsLaunchTests.swift */; };
+		63A477A32C743FF20052DCDB /* DetectToProtectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477A22C743FF20052DCDB /* DetectToProtectTests.swift */; };
+		63A477AD2C743FF20052DCDB /* DetectToProtectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477AC2C743FF20052DCDB /* DetectToProtectUITests.swift */; };
+		63A477AF2C743FF20052DCDB /* DetectToProtectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477AE2C743FF20052DCDB /* DetectToProtectUITestsLaunchTests.swift */; };
 		63A477BC2C7440090052DCDB /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477BB2C7440090052DCDB /* SecondView.swift */; };
 		63A477BE2C7440150052DCDB /* ReadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A477BD2C7440150052DCDB /* ReadingView.swift */; };
 		63AE43EC2CA5A74400F119EA /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AE43EB2CA5A74400F119EA /* ProfileView.swift */; };
@@ -59,15 +59,15 @@
 		08359B672D7CBF4D005E19FA /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		636F4D8F2C8E2BC600637B75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		63A4778C2C743FF00052DCDB /* Detect To Protect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Detect To Protect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		63A4778F2C743FF00052DCDB /* MelaninMedDraftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelaninMedDraftApp.swift; sourceTree = "<group>"; };
+		63A4778F2C743FF00052DCDB /* DetectToProtect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectToProtect.swift; sourceTree = "<group>"; };
 		63A477912C743FF00052DCDB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		63A477952C743FF20052DCDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63A477982C743FF20052DCDB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		63A4779E2C743FF20052DCDB /* DetectToProtectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DetectToProtectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		63A477A22C743FF20052DCDB /* MelaninMedDraftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelaninMedDraftTests.swift; sourceTree = "<group>"; };
+		63A477A22C743FF20052DCDB /* DetectToProtectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectToProtectTests.swift; sourceTree = "<group>"; };
 		63A477A82C743FF20052DCDB /* DetectToProtectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DetectToProtectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		63A477AC2C743FF20052DCDB /* MelaninMedDraftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelaninMedDraftUITests.swift; sourceTree = "<group>"; };
-		63A477AE2C743FF20052DCDB /* MelaninMedDraftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelaninMedDraftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		63A477AC2C743FF20052DCDB /* DetectToProtectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectToProtectUITests.swift; sourceTree = "<group>"; };
+		63A477AE2C743FF20052DCDB /* DetectToProtectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectToProtectUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		63A477BB2C7440090052DCDB /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		63A477BD2C7440150052DCDB /* ReadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingView.swift; sourceTree = "<group>"; };
 		63AE43EB2CA5A74400F119EA /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
@@ -117,9 +117,9 @@
 		63A477832C743FF00052DCDB = {
 			isa = PBXGroup;
 			children = (
-				63A4778E2C743FF00052DCDB /* MelaninMedDraft */,
-				63A477A12C743FF20052DCDB /* MelaninMedDraftTests */,
-				63A477AB2C743FF20052DCDB /* MelaninMedDraftUITests */,
+				63A4778E2C743FF00052DCDB /* DetectToProtect */,
+				63A477A12C743FF20052DCDB /* DetectToProtecttests */,
+				63A477AB2C743FF20052DCDB /* DetectToProtectUITests */,
 				63A4778D2C743FF00052DCDB /* Products */,
 				63FAD0E42C80818C0073BA19 /* Frameworks */,
 			);
@@ -135,11 +135,11 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		63A4778E2C743FF00052DCDB /* MelaninMedDraft */ = {
+		63A4778E2C743FF00052DCDB /* DetectToProtect */ = {
 			isa = PBXGroup;
 			children = (
 				636F4D8F2C8E2BC600637B75 /* Info.plist */,
-				63A4778F2C743FF00052DCDB /* MelaninMedDraftApp.swift */,
+				63A4778F2C743FF00052DCDB /* DetectToProtect.swift */,
 				082774E12D77D31000ED284F /* LungAI_image_input.mlpackage */,
 				63FAD0D52C80627F0073BA19 /* RiskClassifier.mlpackage */,
 				63D832F62C855298007FC39C /* Diagnoser.mlpackage */,
@@ -154,7 +154,7 @@
 				63A477952C743FF20052DCDB /* Assets.xcassets */,
 				63A477972C743FF20052DCDB /* Preview Content */,
 			);
-			path = MelaninMedDraft;
+			path = DetectToProtect;
 			sourceTree = "<group>";
 		};
 		63A477972C743FF20052DCDB /* Preview Content */ = {
@@ -165,21 +165,21 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		63A477A12C743FF20052DCDB /* MelaninMedDraftTests */ = {
+		63A477A12C743FF20052DCDB /* DetectToProtecttests */ = {
 			isa = PBXGroup;
 			children = (
-				63A477A22C743FF20052DCDB /* MelaninMedDraftTests.swift */,
+				63A477A22C743FF20052DCDB /* DetectToProtectTests.swift */,
 			);
-			path = MelaninMedDraftTests;
+			path = DetectToProtecttests;
 			sourceTree = "<group>";
 		};
-		63A477AB2C743FF20052DCDB /* MelaninMedDraftUITests */ = {
+		63A477AB2C743FF20052DCDB /* DetectToProtectUITests */ = {
 			isa = PBXGroup;
 			children = (
-				63A477AC2C743FF20052DCDB /* MelaninMedDraftUITests.swift */,
-				63A477AE2C743FF20052DCDB /* MelaninMedDraftUITestsLaunchTests.swift */,
+				63A477AC2C743FF20052DCDB /* DetectToProtectUITests.swift */,
+				63A477AE2C743FF20052DCDB /* DetectToProtectUITestsLaunchTests.swift */,
 			);
-			path = MelaninMedDraftUITests;
+			path = DetectToProtectUITests;
 			sourceTree = "<group>";
 		};
 		63AE44002CA5D5B600F119EA /* ChatBot */ = {
@@ -289,7 +289,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 63A477872C743FF00052DCDB /* Build configuration list for PBXProject "MelaninMedDraft" */;
+			buildConfigurationList = 63A477872C743FF00052DCDB /* Build configuration list for PBXProject "DetectToProtect" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -356,7 +356,7 @@
 				63A477BC2C7440090052DCDB /* SecondView.swift in Sources */,
 				63D832F72C855298007FC39C /* Diagnoser.mlpackage in Sources */,
 				63AE43F82CA5D37500F119EA /* MessageOwner.swift in Sources */,
-				63A477902C743FF00052DCDB /* MelaninMedDraftApp.swift in Sources */,
+				63A477902C743FF00052DCDB /* DetectToProtect.swift in Sources */,
 				63A477BE2C7440150052DCDB /* ReadingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -365,7 +365,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63A477A32C743FF20052DCDB /* MelaninMedDraftTests.swift in Sources */,
+				63A477A32C743FF20052DCDB /* DetectToProtectTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,8 +373,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63A477AF2C743FF20052DCDB /* MelaninMedDraftUITestsLaunchTests.swift in Sources */,
-				63A477AD2C743FF20052DCDB /* MelaninMedDraftUITests.swift in Sources */,
+				63A477AF2C743FF20052DCDB /* DetectToProtectUITestsLaunchTests.swift in Sources */,
+				63A477AD2C743FF20052DCDB /* DetectToProtectUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -521,11 +521,11 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MelaninMedDraft/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DetectToProtect/Preview Content\"";
 				DEVELOPMENT_TEAM = Q39R492PWQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MelaninMedDraft/Info.plist;
+				INFOPLIST_FILE = DetectToProtect/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Detect to Protect";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.medical";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app requires the camera to take picture of Lung Cancer Scans.";
@@ -557,11 +557,11 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MelaninMedDraft/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DetectToProtect/Preview Content\"";
 				DEVELOPMENT_TEAM = Q39R492PWQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MelaninMedDraft/Info.plist;
+				INFOPLIST_FILE = DetectToProtect/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Detect to Protect";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.medical";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app requires the camera to take picture of Lung Cancer Scans.";
@@ -601,7 +601,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MelaninMedDraft.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MelaninMedDraft";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DetectToProtect.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DetectToProtect";
 			};
 			name = Debug;
 		};
@@ -621,7 +621,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MelaninMedDraft.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MelaninMedDraft";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DetectToProtect.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DetectToProtect";
 			};
 			name = Release;
 		};
@@ -664,7 +664,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		63A477872C743FF00052DCDB /* Build configuration list for PBXProject "MelaninMedDraft" */ = {
+		63A477872C743FF00052DCDB /* Build configuration list for PBXProject "DetectToProtect" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63A477B02C743FF20052DCDB /* Debug */,

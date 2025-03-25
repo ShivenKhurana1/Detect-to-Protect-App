@@ -984,7 +984,7 @@ struct LoginView: View {
                         Spacer()
                         Button(action: {
                             isEmailSent = true
-                            // sendPasswordReset(withEmail: $email)
+                            //sendPasswordReset(withEmail: $email)
                         }) {
                             VStack {
                                 Text("Forgot password?")

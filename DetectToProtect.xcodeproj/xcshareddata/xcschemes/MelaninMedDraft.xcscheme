@@ -18,7 +18,7 @@
                BlueprintIdentifier = "63A4778B2C743FF00052DCDB"
                BuildableName = "Detect To Protect.app"
                BlueprintName = "DetectToProtect"
-               ReferencedContainer = "container:MelaninMedDraft.xcodeproj">
+               ReferencedContainer = "container:DetectToProtect.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -38,7 +38,7 @@
                BlueprintIdentifier = "63A4779D2C743FF20052DCDB"
                BuildableName = "DetectToProtectTests.xctest"
                BlueprintName = "DetectToProtectTests"
-               ReferencedContainer = "container:MelaninMedDraft.xcodeproj">
+               ReferencedContainer = "container:DetectToProtect.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "63A477A72C743FF20052DCDB"
                BuildableName = "DetectToProtectUITests.xctest"
                BlueprintName = "DetectToProtectUITests"
-               ReferencedContainer = "container:MelaninMedDraft.xcodeproj">
+               ReferencedContainer = "container:DetectToProtect.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,7 +71,7 @@
             BlueprintIdentifier = "63A4778B2C743FF00052DCDB"
             BuildableName = "Detect To Protect.app"
             BlueprintName = "DetectToProtect"
-            ReferencedContainer = "container:MelaninMedDraft.xcodeproj">
+            ReferencedContainer = "container:DetectToProtect.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -95,7 +95,7 @@
             BlueprintIdentifier = "63A4778B2C743FF00052DCDB"
             BuildableName = "Detect To Protect.app"
             BlueprintName = "DetectToProtect"
-            ReferencedContainer = "container:MelaninMedDraft.xcodeproj">
+            ReferencedContainer = "container:DetectToProtect.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

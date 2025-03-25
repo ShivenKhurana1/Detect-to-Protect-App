@@ -1007,11 +1007,11 @@ struct SecondView: View {
                                                 Button(action: {
                                                     if result.lowercased() == "normal" {
                                                         showAlert(message: "Normal indicates that the condition is not cancerous.")
-                                                    } else if result.lowercased() == "large cell carcinoma" {
+                                                    } else if result.lowercased() == "large_cell_carcinoma" {
                                                         showAlert(message: "Large Cell Carcinoma indicates that the condition is harmful and is cancerous.")
-                                                    } else if result.lowercased() == "adenocarcinoma" {
+                                                    } else if result.lowercased() == "Lung_adenocarcinoma" {
                                                         showAlert(message: "Adenocarcinoma indicates that the condition is harmful and is cancerous.")
-                                                    } else if result.lowercased() == "squamous cell carcinoma" {
+                                                    } else if result.lowercased() == "Lung squamous_cell_carcinoma" {
                                                         showAlert(message: "Squamous Cell Carcinoma indicates that the condition is harmful and is cancerous.")
                                                     }
                                                     
