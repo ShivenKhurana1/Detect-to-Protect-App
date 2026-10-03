@@ -46,7 +46,9 @@ The iOS app (Swift, SwiftUI) lets a user select a scan and returns a prediction 
 
 **In the app.** The same CNN is bundled as Core ML (`DetectToProtect/LungAI_image_input.mlpackage`, 13 conv + 3 dense layers) and runs on-device. `resnet101_model.mlpackage` in the repo root is not part of the Xcode target. `RiskClassifier` and `Diagnoser` are ResNet-18 skin-lesion models left from an earlier version of the app.
 
-**[project poster](https://drive.google.com/file/d/1Q9Dw3irs2n7GgsAqVr7llPdTtbq8pV_j/view?usp=drive_link)**
+## Project Poster
+
+Project poster will be visible here: **[project poster](https://drive.google.com/file/d/1Q9Dw3irs2n7GgsAqVr7llPdTtbq8pV_j/view?usp=drive_link)**
 ## Limitations
 
 - Public datasets of single CT slices, not full patient scans; no external hospital validation.
